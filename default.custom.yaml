@@ -9,3 +9,4 @@ patch:
     - {schema: rime_ice}
   "switcher/hotkeys":
     - F4
+  ascii_mode: false # 关闭ASCII（英文）模式
